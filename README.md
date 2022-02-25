@@ -1,2 +1,2 @@
-# my Cloud AWS
+# My Cloud AWS
 This repository contain Everything about the AWS Cloud setting specially for Hadoop And Cloudera...
